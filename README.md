@@ -5,6 +5,7 @@ The code for starting in web development
 * [BASIC SQL DATABASE](#basic-sql-database-syntax)
 * [BACKEND PROGRAMMING](#backend-programming)
 * [FRONTEND PROGRAMMING](#frontend-programming)
+* [LIBRARIES](#libraries)
 
 # Learn the Following
 ## Basic SQL DATABASE Syntax
@@ -33,3 +34,8 @@ Let' say for example you choose to use PHP as your backend programming language.
     * Event Handling/ Event Listeners
     * JSON - Javascript Object Notation `(non-beginner)`
     * AJAX - Asynchrous Javascript and XML `(non-beginner)`
+
+## Libraries
+Front-end libraries that will help to boost your productivity
+* Twitter Boostrap ( [https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap) )
+* Jquery ( [https://github.com/jquery/jquery](https://github.com/jquery/jquery) )
