@@ -2,9 +2,9 @@
 The code for starting in web development
 
 # Summary of things to learn
-* SQL DATABASE
-* BACKEND PROGRAMMING
-* FRONTEND PROGRAMMING
+* [BASIC SQL DATABASE](#basic-sql-database-syntax)
+* [BACKEND PROGRAMMING](#backend-programming)
+* [FRONTEND PROGRAMMING](#frontend-programming)
 
 # Learn the Following
 ## Basic SQL DATABASE Syntax
@@ -16,12 +16,14 @@ The code for starting in web development
 * `DELETE` statement
 * BASIC CLAUSES - `WHERE`, `LIKE` ...
 * SQL FUNCTIONS - `now()`, `COUNT()`, `SUM()`...
+
 ## Backend Programming
 Let' say for example you choose to use PHP as your backend programming language. You need to learn the following:
 1. How php routing works?
 2. Object Oriented Programming
 3. HTTP methods - `POST`, `GET`, `PUT`...
 4. HTTP Headers - `location: [url]`, `Accept: [type]`...
+
 ## Frontend Programming
 1. Fundamentals of HTML + CSS
     * This part of learning is just about creating a user interface.
